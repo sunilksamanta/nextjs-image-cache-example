@@ -1,1 +1,8 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# NextJS Image Cache Example
+
+## Run the bellow and open ```http://localhost:3000/example```
+```
+npm run dev
+
+```
+
